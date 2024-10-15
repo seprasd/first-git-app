@@ -6,7 +6,7 @@ with col1:
 with col2:
     st.write(""" AT its core, CampusX aims to change the education system in INDIA""")
 st.header("Courses offered")
-st.subheader("Data science")
+st.subheader("Data science and machine learning")
 st.subheader("Data analysis")
-st.subheader("Python")
+
 st.subheader("SQL")
