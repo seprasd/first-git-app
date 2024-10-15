@@ -8,3 +8,5 @@ with col2:
 st.header("Courses offered")
 st.subheader("Data science")
 st.subheader("Data analysis")
+st.subheader("Python")
+st.subheader("SQL")
