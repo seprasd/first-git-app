@@ -5,3 +5,6 @@ with col1:
     st.image("unnamed.jpeg")
 with col2:
     st.write(""" AT its core, CampusX aims to change the education system in INDIA""")
+st.header("Courses offered")
+st.subheader("Data science")
+st.subheader("Data analysis")
