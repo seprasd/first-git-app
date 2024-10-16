@@ -10,3 +10,4 @@ st.subheader("Data science and machine learning")
 st.subheader("Data analysis")
 
 st.subheader("SQL")
+st.subheader("DSA")
